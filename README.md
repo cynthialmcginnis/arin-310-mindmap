@@ -4,7 +4,7 @@ An interactive review of **ARIN 310: Introduction to Artificial Intelligence**, 
 
 Explore eight units through an expandable mind map, select concepts to read explanations, reflect on real-world examples, and answer practice questions with immediate feedback.
 
-**[Open the interactive review](./index.html)**
+**[Open the interactive review](https://cynthialmcginnis.github.io/arin-310-mindmap/)**
 
 ## What is included
 
